@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ascka.serv00.net.ico",
     "slug": "serv00",
     "status": "down",
-    "uptime": "3.58%",
+    "uptime": "3.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.58%",
+    "uptimeYear": "3.55%",
     "time": 728,
     "timeDay": 819,
     "timeWeek": 699,
     "timeMonth": 840,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2026-04-15": 202,
+      "2026-04-15": 761,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
@@ -83,7 +83,7 @@
     "timeMonth": 2823,
     "timeYear": 3149,
     "dailyMinutesDown": {
-      "2026-04-15": 202,
+      "2026-04-15": 761,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
@@ -139,9 +139,9 @@
     "url": "https://blog.tomorrowisinyourhands.fun/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.tomorrowisinyourhands.fun.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -150,6 +150,8 @@
     "timeWeek": 185,
     "timeMonth": 171,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-15": 0
+    }
   }
 ]
